@@ -13,7 +13,7 @@
               }
           else
               {
-                  obj[nums[i]]=i;
+                  obj[nums[i]]=  i;
               }
       }
   
