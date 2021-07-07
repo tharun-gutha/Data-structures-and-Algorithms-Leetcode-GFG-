@@ -2,3 +2,5 @@
 ### **Array :**
  1. [TwoSum Leetcode](https://github.com/tharun-gutha/Data-structures-and-Algorithms-Leetcode-GFG-/tree/master/Array/TwoSumLeetcode)
  2. [MissingNumber Leetcode](https://github.com/tharun-gutha/Data-structures-and-Algorithms-Leetcode-GFG-/tree/master/Array/MissingNumberLeetcode)
+ 3. [SingleNumber Leetcode](https://github.com/tharun-gutha/Data-structures-and-Algorithms-Leetcode-GFG-/tree/master/Array/SingleNumberLeetcode)
+ 4. [ContainsDuplicate Leetcode](https://github.com/tharun-gutha/Data-structures-and-Algorithms-Leetcode-GFG-/tree/master/Array/ContainsDuplicateLeetcode)
