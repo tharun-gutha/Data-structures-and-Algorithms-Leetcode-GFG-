@@ -1,3 +1,4 @@
+// the main idea is storing elements in map return true if element is already there else return false
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
