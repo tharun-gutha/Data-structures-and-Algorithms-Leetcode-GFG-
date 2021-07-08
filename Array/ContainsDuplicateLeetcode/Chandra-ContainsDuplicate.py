@@ -9,5 +9,12 @@ def containsDuplicate(nums):
             if dict[i]>=2:
                 return True
         return False
+#Time Complexity-O(n**2)
+#------------------------------------------------------
+def containsDuplicate(nums):
+        if len(set(nums))!=len(nums):
+            return True
+        else:
+            return False
 
         
