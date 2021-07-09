@@ -9,6 +9,10 @@ def sort012(arr):
     for i in arr:
         if i==2:
             l.append(i)
-    return l
+    i=0      
+    while i<len(arr):
+        arr[i]=l[i]
+        i=i+1
+        
 # Time Complexity-O(n)
 
