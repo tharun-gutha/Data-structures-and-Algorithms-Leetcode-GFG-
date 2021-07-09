@@ -19,4 +19,20 @@ class Solution:
         set1=set(res)    
         set2=set(nums)
         diff=set1-set2
-        return diff         
+        return diff    
+
+#third method - o(n)
+
+class Solution:
+    def findDisappearedNumbers(self, nums: List[int]) -> List[int]:
+        missing=[]#create a missing value
+        for i in nums:
+            pos=abs(i)-1  # we get to the position (ie index ) 
+            if nums[pos]>0:
+                nums[pos]*=-1 # turn the element into negative element (as marked )
+        for i in range(len(nums)):
+            if nums[i]>0:
+                missing.append(i+1) #getting back to position from index (these are elements )
+        return missing        
+                
+        
