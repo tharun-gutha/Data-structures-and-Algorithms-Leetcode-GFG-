@@ -16,5 +16,6 @@ def containsDuplicate(nums):
             return True
         else:
             return False
+# Time Complexity-O(n)
 
         
