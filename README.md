@@ -9,3 +9,5 @@
  7. [Find All Numbers Disappeared in an Array-Leetcode](https://github.com/tharun-gutha/Data-structures-and-Algorithms-Leetcode-GFG-/tree/master/Array/Find-All-Numbers-disappered-in-an-Array-Leetcode)
  8. [Sort an array of 0s, 1s and 2s-GFG](https://github.com/tharun-gutha/Data-structures-and-Algorithms-Leetcode-GFG-/tree/master/Array/Sort-an-array-of-0s-1s-and-2s)
  9. [Kth smallest element-GFG](https://github.com/tharun-gutha/Data-structures-and-Algorithms-Leetcode-GFG-/tree/master/Array/Kth-Smallest-Element-Leetcode)- we will come back this question when we solve heap problems.
+ 10.[RotateImage Leetcode](https://github.com/tharun-gutha/Data-structures-and-Algorithms-Leetcode-GFG-/tree/master/Array/RotateImageLeetcode)
+ 11.[SpiralMatrix LeetCode](https://github.com/tharun-gutha/Data-structures-and-Algorithms-Leetcode-GFG-/tree/master/Array/SpiralMatrix)
